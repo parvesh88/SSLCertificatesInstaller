@@ -6,4 +6,4 @@ Install multiple SSL Certificates on Windows in one go
 
 Fix missing and expired certificates on Windows.
 
-After doing this, SSL Certificates are installed.
+After doing this, New and Updated SSL Certificates are installed.
